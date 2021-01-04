@@ -2,8 +2,7 @@
 .DS_Store
 
 # Local Datasets
-datasets/*
-!datasets/.gitkeep
+datasets/ml-25m/*
 !datasets/ml-25m/README2.txt
 
 # Byte-compiled / optimized / DLL files
